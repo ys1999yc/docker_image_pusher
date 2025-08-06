@@ -1,1 +1,2 @@
-openjdk:17-jdk-slim
+mysql:8.0
+nginx:alpine
